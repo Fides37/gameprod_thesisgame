@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    private float speed; //float for how fast player can move
+    public float speed; //float for how fast player can move
     private float jumpForce = 5f; //how high player can jump
     float horizontalInput; //horizontal input; a & d keys, left and right arrows
     float verticalInput; //vertical input; w & s keys, up and down arrows
@@ -62,6 +62,8 @@ public class PlayerMovement : MonoBehaviour
             rb.drag = 0f;
             canJump = false;
         }
+
+        Debug.Log(movementStates);
 
     }
 

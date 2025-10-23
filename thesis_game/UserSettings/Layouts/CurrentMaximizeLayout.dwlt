@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 150}
   m_MaxSize: {x: 24288, y: 24288}
   vertical: 1
-  controlID: 4497
+  controlID: 137
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -91,9 +91,9 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 1
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 4401
+  controlID: 43
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -215,7 +215,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 661a0000
       m_LastClickedID: 0
       m_ExpandedIDs: 30fbffff7e5c0000
       m_RenameOverlay:
@@ -260,8 +260,8 @@ MonoBehaviour:
     y: 0
     width: 810.6666
     height: 604
-  m_MinSize: {x: 102, y: 121}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 7}
   m_Panes:
   - {fileID: 7}
@@ -699,7 +699,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.021516828, y: 0.9692901, z: -0.22778328, w: -0.09170711}
     speed: 2
-    m_Value: {x: -0.021513801, y: 0.96915364, z: -0.22775121, w: -0.0916942}
+    m_Value: {x: -0.0215138, y: 0.96915364, z: -0.22775121, w: -0.0916942}
   m_Size:
     m_Target: 12.945465
     speed: 2
@@ -752,7 +752,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 4418
+  controlID: 60
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -773,8 +773,8 @@ MonoBehaviour:
     y: 0
     width: 562.6666
     height: 258
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -911,7 +911,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 4498
+  controlID: 138
   draggingID: 0
 --- !u!114 &14
 MonoBehaviour:
@@ -994,7 +994,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: 68
-  m_LastProjectPath: C:\Users\student\Desktop\game_prod_ii\thesis_game
+  m_LastProjectPath: C:\Users\student\Documents\GitHub\gameprod_thesisgame\thesis_game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -1029,7 +1029,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ce5c0000d05c0000d25c0000d45c000000ca9a3b
+    m_ExpandedIDs: 00000000ce5c0000d05c0000d25c0000d45c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1054,9 +1054,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 661a0000
+    m_LastClickedInstanceID: 6758
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000b69900001a9500002297000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
